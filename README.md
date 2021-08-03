@@ -1,1 +1,1 @@
-To go to the website : https://nikitaadsule.github.io/tinDog/index
+To go to the website : https://nikitaadsule.github.io/tinDog
