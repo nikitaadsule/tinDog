@@ -1,6 +1,7 @@
 body {
   font-family: 'Montserrat', sans-serif;
   margin: 0;
+  text-align: center;
 }
 
 h1 {
@@ -103,6 +104,7 @@ h3 {
 
 .carousel-item {
   padding: 7% 20%;
+
 }
 
 /* Press */
@@ -144,6 +146,7 @@ h3 {
 }
 
 /* Call to Action */
+
 #cta {
   padding: 7% 15%;
   background-color: #ff4c68;
@@ -159,6 +162,7 @@ h3 {
 }
 
 /* Footer */
+
 #footer {
   text-align: center;
   padding: 7% 15%;
@@ -171,7 +175,6 @@ h3 {
   margin-left: 15px;
   color: #000;
 }
-
 .s-i:hover {
   color: #ff4c68;
 }
